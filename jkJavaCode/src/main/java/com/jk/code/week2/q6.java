@@ -35,6 +35,7 @@ public class q6 {
         }
     }
 
+
     private static void service(Socket socket) {
         try {
 //            Thread.sleep(5);
