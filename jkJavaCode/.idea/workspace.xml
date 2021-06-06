@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0ef5809-8759-4c84-9236-dc5104d7287f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jk/code/week4/q2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jk/code/week4/q2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jk/code/week4/q2_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,19 +16,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-            </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jk/code/week4/q2_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
+            <state relative-caret-position="528">
               <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -40,13 +27,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jk/code/week4/q2_3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
+            <state relative-caret-position="814">
               <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jk/code/week4/q6.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -136,6 +128,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="w_test" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -231,10 +228,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="395" />
-    <option name="y" value="23" />
-    <option name="width" value="1464" />
-    <option name="height" value="1047" />
+    <option name="x" value="1741" />
+    <option name="y" value="203" />
+    <option name="width" value="1140" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -306,7 +303,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1622383253599" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1622996260197" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -317,19 +314,20 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/com/jk/code/week2/node" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com/jk/code/week2" />
-      <recent name="D:\jkgithub\javaLearn\jkJavaCode\src\main\resources" />
-      <recent name="D:\jkgithub\javaLearn\jkJavaCode\src\main\java" />
+      <recent name="D:\jkgithub\javaLearn\jkJavaCode\src\main\java\com\jk\code\week1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.jk.code.week4" />
       <recent name="com.jk.code.week3" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/jk/code/week4" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/jk/code/week2/node" />
       <recent name="$PROJECT_DIR$/src/main/java/com/jk/code/week2" />
-      <recent name="D:\jkgithub\javaLearn\jkJavaCode\src\main\java\com\jk\code\week1" />
+      <recent name="D:\jkgithub\javaLearn\jkJavaCode\src\main\resources" />
+      <recent name="D:\jkgithub\javaLearn\jkJavaCode\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -449,8 +447,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.q2_3" />
-        <item itemvalue="Application.q2" />
         <item itemvalue="Application.q2_2" />
+        <item itemvalue="Application.q2" />
         <item itemvalue="Application.q6" />
         <item itemvalue="Application.GCLogAnalysis" />
       </list>
@@ -474,17 +472,18 @@
       <workItem from="1622377239160" duration="88000" />
       <workItem from="1622377332192" duration="355000" />
       <workItem from="1622377738816" duration="1969000" />
-      <workItem from="1622380342849" duration="455000" />
+      <workItem from="1622380342849" duration="4622000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25411000" />
+    <option name="totallyTimeSpent" value="29578000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="395" y="23" width="1464" height="1047" extended-state="0" />
+    <frame x="1741" y="203" width="1140" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18213783" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23588343" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -501,7 +500,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.28433478" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.13841201" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.683727" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32939914" />
       <window_info anchor="bottom" x="387" y="135" width="1138" height="837" id="Byte Code Viewer" order="12" type="FLOATING" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="13" />
@@ -636,13 +635,27 @@
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jk/code/week4/q6.xmind">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jk/code/week4/q2_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
+        <state relative-caret-position="528">
           <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jk/code/week4/q2_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -701,12 +714,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jk/code/week4/q2_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jk/code/week4/q6.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
   <component name="masterDetails">
