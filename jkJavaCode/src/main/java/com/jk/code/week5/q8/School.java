@@ -1,4 +1,4 @@
-package com.jk.code.week5;
+package com.jk.code.week5.q8;
 
 import com.jk.code.week5.q2.Student;
 import lombok.Data;
