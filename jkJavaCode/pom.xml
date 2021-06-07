@@ -26,6 +26,12 @@
             <artifactId>netty-all</artifactId>
             <version>4.1.34.Final</version>
         </dependency>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.16.18</version>
+        </dependency>
     </dependencies>
 
 </project>
