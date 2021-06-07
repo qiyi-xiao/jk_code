@@ -8,10 +8,22 @@
                         http://www.springframework.org/schema/context
                         http://www.springframework.org/schema/context/spring-context-3.2.xsd http://www.springframework.org/schema/aop https://www.springframework.org/schema/aop/spring-aop.xsd">
 
-    <bean id="student"
-          class="io.kimmking.spring01.Student">
-        <property name="id" value="123" />
-        <property name="name" value="KK123" />
+    <bean id="student" class="com.jk.code.week5.q2.Student">
+        <property name="id" value="1"/>
+        <property name="name" value="1"/>
+    </bean>
+
+    <bean id="student2" class="com.jk.code.week5.q2.Student">
+        <constructor-arg value="2"/>
+        <constructor-arg value="2"/>
+    </bean>
+
+    <bean id="student3" class="com.jk.code.week5.q2.StaticStudentFactory" factory-method="getStudent3">
+        <constructor-arg value="3"/>
+    </bean>
+
+    <bean id="student4" class="com.jk.code.week5.q2.StudentFactoryBean" >
+        <property name="studentInfo" value="4,4"/>
     </bean>
 
 </beans>
