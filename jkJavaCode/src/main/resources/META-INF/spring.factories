@@ -1,1 +1,2 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.tian.TianServiceAutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration\
+ com.jk.code.week5.q8.SchoolServiceAutoConfiguration

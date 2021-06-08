@@ -3,16 +3,16 @@ package com.jk.code.week5.q8;
 import com.jk.code.week5.q2.Student;
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.context.properties.ConfigurationProperties;
 
 import javax.annotation.Resource;
 
 @Data
+@ConfigurationProperties(prefix = "spring.school")
 public class School implements ISchool {
 
-    @Autowired
     Klass class1;
 
-    @Resource(name = "student2")
     Student student2;
 
     @Override
